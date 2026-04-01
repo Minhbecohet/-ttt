@@ -70,3 +70,4 @@ class SmartSpeaker extends SmartDevice implements WifiConnectable, Level {
 class Curtain extends SmartDevice {
     public Curtain(String id, String name) { super(id, name); }
 }
+//tao bi gay
